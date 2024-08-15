@@ -3,7 +3,7 @@
  -Join job postings to inner join table similar to query 2
  -Identify the top 5 in-demand skills for a data analyst.
  -Focus on all job postings.
- -To retrieve the top 5 skills with the highest demand in the job market. 
+ -WHY? To retrieve the top 5 skills with the highest demand in the job market. 
  providing insights into the most valuable skills for job seekers.
  */
 SELECT skills,
